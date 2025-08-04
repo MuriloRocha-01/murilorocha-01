@@ -27,5 +27,9 @@ Linguagens e Ferramentas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
+
+<div algn="let">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murilorocha-01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2%22%20height=%22150" />
+ 
 <!--
 **MuriloRocha-01/murilorocha-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
