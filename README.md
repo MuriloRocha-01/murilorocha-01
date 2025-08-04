@@ -1,3 +1,5 @@
+Full Stack Developer | Computer Engineering
+
 ## Hi, I'm Murilo, a Full Stack developer
 
 <!--
