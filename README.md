@@ -1,4 +1,4 @@
-Full Stack Developer | Computer Engineering
+Full Stack Developer | information system
 
 ## Hi, I'm Murilo, a Full Stack developer
 
