@@ -1,4 +1,6 @@
-Full Stack Developer | information System
+# <img src="file:///C:/Users/dreit/OneDrive/%C3%81rea%20de%20Trabalho/machine-vision-svgrepo-com.svg" /> Murilo Rocha
+
+`Full Stack Developer | information System`
 
 ## Hi, I'm Murilo, a Full Stack developer.I create responsive and user-friendly interfaces using JavaScript, React, and Tailwind CSS. With a background in design and an interest in fullstack development, I like to turn ideas into simple and functional web projects. This is where I share what I'm learning and building as I grow in tech.
 
