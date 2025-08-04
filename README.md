@@ -5,7 +5,7 @@
  Hi, I'm Murilo, a Full Stack developer.I create responsive and user-friendly interfaces using JavaScript, React, and Tailwind CSS. With a background in design and an interest in fullstack development, I like to turn ideas into simple and functional web projects. This is where I share what I'm learning and building as I grow in tech.
 
 <div>
-    <a href="https://github.com/murilorocha-10?tab=followers">
+    <a href="https://github.com/MuriloRocha-10?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/murilorocha-01?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/yasmngoncalves?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yasmngoncalves?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
