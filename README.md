@@ -9,7 +9,7 @@
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/murilorocha-01?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/yasmngoncalves?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yasmngoncalves?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-    <a href="[https://www.linkedin.com/in/yasmngoncalves/](https://www.linkedin.com/in/murilo-rocha-6706a41aa/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/murilo-rocha-6706a41aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/yasmndev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
