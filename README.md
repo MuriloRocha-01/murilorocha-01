@@ -1,4 +1,4 @@
-<h1 align="left">Murilo Rocha</h1>
+<h1 align="center">Murilo Rocha</h1>
 
 ###
 
