@@ -46,7 +46,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/murilo-rocha-6706a41aa/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo" target="_blank" />
   </a>
   <a href="mailto:murilorochadelima.10@gmail.com?subject=email&body=Estou%20interessado%20no%20seu%20servi%C3%A7o!" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
