@@ -1,8 +1,8 @@
-<h2 align="left">Murilo Rocha</h2>
+<h1 align="left">Murilo Rocha</h1>
 
 ###
 
-<h6 align="center">Full Stack Developer | information System</h6>
+<h6 align="center">Full Stack Developer | Cursando Sistemas de informação </h6>
 
 ###
 
